@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Employee Management Dashboard",
+  "description": "A modern, responsive web application to manage company employees. It allows adding, editing, deleting, and viewing employee details. Includes an AI-powered feature to generate performance review summaries.",
+  "requestFramePermissions": []
+}
